@@ -1,13 +1,13 @@
 {
   "name": "creditcard_checker",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple credit card number validator",
   "main": "main.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["credit_card", "number", "regex"],
+  "author": "vattghern203",
   "license": "ISC"
 }
